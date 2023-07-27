@@ -1,5 +1,7 @@
 # TipTap Render View
 
+[![NPM version](https://img.shields.io/npm/v/tiptap-render-view)](https://www.npmjs.com/package/tiptap-render-view)
+
 <!-- NOTE: [description] Sync description with GitHub and package.json -->
 
 Serialize [Tiptap](https://github.com/ueberdosis/tiptap) JSON content with interactive components.
