@@ -1,4 +1,4 @@
-# TipTap Render View
+# Tiptap Render View
 
 [![NPM version](https://img.shields.io/npm/v/tiptap-render-view)](https://www.npmjs.com/package/tiptap-render-view)
 
