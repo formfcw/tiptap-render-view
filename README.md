@@ -21,7 +21,7 @@ At the time of writing this package only provides a Vue component to render your
 
 ### Vue
 
-Check out this [example on StackBlitz](https://stackblitz.com/github/formfcw/tiptap-render-view/tree/main/vue/example-app)
+Check out this [example on StackBlitz](https://stackblitz.com/github/formfcw/tiptap-render-view/tree/main/vue/example-app?file=src%2FApp.vue)
 
 ```vue
 <template>
