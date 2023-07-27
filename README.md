@@ -2,7 +2,7 @@
 
 <!-- NOTE: [description] Sync description with GitHub and package.json -->
 
-Serialize [Tiptap](https://github.com/ueberdosis/tiptap) JSON content editor with interactive components.
+Serialize [Tiptap](https://github.com/ueberdosis/tiptap) JSON content with interactive components.
 
 ## Installation
 
