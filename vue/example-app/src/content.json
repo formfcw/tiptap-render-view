@@ -1,0 +1,25 @@
+{
+  "type": "doc",
+  "content": [
+    { "type": "heading", "attrs": { "level": 1 }, "content": [{ "type": "text", "text": "One morning" }] },
+    {
+      "type": "paragraph",
+      "content": [
+        { "type": "text", "text": "… when " },
+        { "type": "text", "marks": [{ "type": "italic" }], "text": "Gregor Samsa " },
+        { "type": "text", "text": "woke from " },
+        { "type": "text", "marks": [{ "type": "bold" }], "text": "troubled" },
+        {
+          "type": "text",
+          "text": " dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        { "type": "text", "text": "The bedding was hardly able to cover it and seemed ready to slide off any moment." }
+      ]
+    }
+  ]
+}
