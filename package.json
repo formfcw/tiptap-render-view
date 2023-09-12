@@ -1,6 +1,6 @@
 {
     "name": "tiptap-render-view",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Serialize Tiptap JSON content with interactive components.",
     "main": "index.js",
     "license": "GPL-3.0",
@@ -18,10 +18,10 @@
         "serialize"
     ],
     "devDependencies": {
-        "typescript": "^5.1.6",
+        "typescript": "^5.2.2",
         "vue": "^3.3.4"
     },
     "dependencies": {
-        "@tiptap/core": "^2.0.4"
+        "@tiptap/core": "^2.1.8"
     }
 }
