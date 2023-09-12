@@ -37,7 +37,7 @@ export default defineComponent({
             return renderView<VNode>(
                 content,
                 serializers,
-                (tag, attrs, content) => h(tag, attrs, content as any)
+                (tag, attrs, content) => h(tag, attrs, () => content as any)
             );
         };
     },
