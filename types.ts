@@ -1,5 +1,5 @@
 import type { JSONContent, Extensions, AnyExtension } from "@tiptap/core";
-export { JSONContent, Extensions };
+export type { JSONContent, Extensions };
 
 export type RenderedNode<T> = T | string | (T | string)[];
 
