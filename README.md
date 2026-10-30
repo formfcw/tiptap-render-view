@@ -10,11 +10,11 @@ Serialize [Tiptap](https://github.com/ueberdosis/tiptap) JSON content with inter
 
 ```sh
 # Using npm
-npm install tiptap-render-view
+npm install tiptap-render-view @tiptap/core
 # Using yarn
-yarn add tiptap-render-view
+yarn add tiptap-render-view @tiptap/core
 # Using pnpm
-pnpm add tiptap-render-view
+pnpm add tiptap-render-view @tiptap/core
 ```
 
 ## Usage

@@ -21,7 +21,8 @@
         "typescript": "^5.2.2",
         "vue": "^3.3.4"
     },
-    "dependencies": {
+    "dependencies": {},
+    "peerDependencies": {
         "@tiptap/core": "^2.1.8"
     }
 }

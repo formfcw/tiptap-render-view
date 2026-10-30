@@ -12,6 +12,7 @@
     "vue-class-component": "^8.0.0-0"
   },
   "devDependencies": {
+    "@tiptap/core": "^2.1.8",
     "@tiptap/extension-blockquote": "^2.0.4",
     "@tiptap/extension-bold": "^2.0.4",
     "@tiptap/extension-bullet-list": "^2.0.4",
